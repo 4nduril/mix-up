@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Martini",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Dry Vermouth"
+    ],
+    "addons": [
+      "Olive"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Daiquiri",
+    "mainSpirit": "Rum",
+    "otherIngredients": [
+      "Simple Syrup",
+      "Lime Juice"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Manhattan",
+    "mainSpirit": "(Rye) Whiskey",
+    "otherIngredients": [
+      "Sweet (red) Vermouth",
+      "Bitters"
+    ],
+    "addons": [
+      "Cocktail-Cherry"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Margarita",
+    "mainSpirit": "Tequila",
+    "otherIngredients": [
+      "Triple Sec (Cointreau)",
+      "Lime Juice"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Sidecar",
+    "mainSpirit": "Brandy",
+    "otherIngredients": [
+      "Triple Sec (Cointreau)",
+      "Lemon Juice"
+    ],
+    "addons": [
+      "Lemon wedge"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Negroni",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Sweet (red) Vermouth",
+      "Campari"
+    ],
+    "addons": [
+      "Orange wedge"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Kamikaze",
+    "mainSpirit": "Vodka",
+    "otherIngredients": [
+      "Triple Sec (Cointreau)",
+      "Lime Juice"
+    ],
+    "addons": [
+      "Lime wedge"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Old Fashioned",
+    "mainSpirit": "(Rye) Whiskey",
+    "otherIngredients": [
+      "Bitters",
+      "Simple Syrup"
+    ],
+    "addons": [
+      "Orange zest"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Shrunken Skull",
+    "mainSpirit": "Light Rum",
+    "otherIngredients": [
+      "Lime Juice",
+      "Grenadine Syrup"
+    ],
+    "addons": [
+      "Tiki decoration"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Aviation",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Creme de Violette",
+      "Lemon Juice",
+      "Maraschino"
+    ],
+    "addons": [
+      "Cocktail-Cherry"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Lion's Tail",
+    "mainSpirit": "Bourbon",
+    "otherIngredients": [
+      "Allspice Liqueur",
+      "Lime Juice",
+      "Simple Syrup",
+      "Bitters"
+    ],
+    "addons": [
+      "Lime skin twist"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Dark 'n' Stormy",
+    "mainSpirit": "Dark Rum",
+    "otherIngredients": [
+      "Ginger Beer"
+    ],
+    "addons": [
+      "Lime wedge"
+    ],
+    "mixing": "none"
+  },
+  {
+    "name": "Hotel Nacional",
+    "mainSpirit": "Light Rum",
+    "otherIngredients": [
+      "Apricot Liqueur",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Simple Syrup"
+    ],
+    "addons": [
+      "Lime wheel"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Vieux Carre",
+    "mainSpirit": "(Rye) Whiskey",
+    "otherIngredients": [
+      "Cognac",
+      "Sweet (red) Vermouth",
+      "Lime Juice",
+      "Benedictine",
+      "Pechaud Bitters",
+      "Angostura Bitters"
+    ],
+    "addons": [
+      "Lemon oil",
+      "Lemon zest"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Rusty Nail",
+    "mainSpirit": "Scotch",
+    "otherIngredients": [
+      "Drambuie"
+    ],
+    "addons": [
+      "Lemon oil"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Champagne Cocktail",
+    "mainSpirit": "Champagne",
+    "otherIngredients": [
+      "Bitters",
+      "Sugar cube"
+    ],
+    "addons": [
+      "Lemon oil"
+    ],
+    "mixing": "none"
+  },
+  {
+    "name": "Clover Club",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Lemon Juice",
+      "Raspberry Syrup",
+      "Aquafaba"
+    ],
+    "addons": [
+      "Raspberry"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Pink Lady",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Apple Brandy",
+      "Lemon Juice",
+      "Grenadine Syrup",
+      "Aquafaba"
+    ],
+    "addons": [
+      "Cocktail-Cherry"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "El Presidente",
+    "mainSpirit": "Light Rum",
+    "otherIngredients": [
+      "Dry Vermouth",
+      "Triple Sec (Cointreau)",
+      "Grenadine Syrup"
+    ],
+    "addons": [
+      "Orange zest",
+      "Cocktail-Cherry"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Martinez",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Sweet (red) Vermouth",
+      "Maraschino",
+      "Orange Bitters"
+    ],
+    "addons": [
+      "Lemon oil"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "Last Word",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Chartreuse",
+      "Maraschino",
+      "Lime Juice"
+    ],
+    "addons": [],
+    "mixing": "shake"
+  },
+  {
+    "name": "Queen's Park Swizzle",
+    "mainSpirit": "Rum",
+    "otherIngredients": [
+      "Lime Juice",
+      "Rich Demarara Syrup",
+      "Mint leaves",
+      "Bitters"
+    ],
+    "addons": [
+      "Mint sprigs"
+    ],
+    "mixing": "stir"
+  },
+  {
+    "name": "White Lady",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Triple Sec (Cointreau)",
+      "Lemon Juice",
+      "Aquafaba",
+      "Simple Syrup"
+    ],
+    "addons": [
+      "Lemon oil"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Piña Colada",
+    "mainSpirit": "Light Rum",
+    "otherIngredients": [
+      "Pineapple Juice",
+      "Cream of Coconut",
+      "Coconut Milk"
+    ],
+    "addons": [
+      "Tiki decoration"
+    ],
+    "mixing": "blend"
+  },
+  {
+    "name": "Mojito",
+    "mainSpirit": "Light Rum",
+    "otherIngredients": [
+      "Lime Juice",
+      "Rich Demarara Syrup",
+      "Soda water",
+      "Mint leaves"
+    ],
+    "addons": [
+      "Mint sprigs"
+    ],
+    "mixing": "blend"
+  },
+  {
+    "name": "Singabpore Sling",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Cherry Liquor",
+      "Benedictine",
+      "Triple Sec (Cointreau)",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Grenadine Syrup",
+      "Bitters"
+    ],
+    "addons": [
+      "Tiki decoration"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "White Negroni",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Suze",
+      "Lillet Blanc"
+    ],
+    "addons": [
+      "Grapefruit Oil"
+    ],
+    "mixing": "Stir"
+  },
+  {
+    "name": "Satans Whiskers",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Dry Vermouth",
+      "Sweet (red) Vermouth",
+      "Grand Marnier",
+      "Orange Juice",
+      "Orange Bitters"
+    ],
+    "addons": [
+      "Orange Oil"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Mary Pickford",
+    "mainSpirit": "Light Rum",
+    "otherIngredients": [
+      "Pineapple Juice",
+      "Grenadine Syrup"
+    ],
+    "mixing": "shake"
+  }
+]
