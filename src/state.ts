@@ -17,3 +17,53 @@ export const attach = async () => {
     decks: [drinks, mainSpirits],
   }
 }
+
+type Player = {
+  id: string
+  name: string
+  points: number
+}
+
+type Deck = {
+  id: string
+  name: string
+  cards: Array<string>
+}
+
+export type GameState = {
+  deckOne?: Deck
+  deckTwo?: Deck
+  openIndexOne?: number
+  openIndexTwo?: number
+  players: Array<Player>
+  activePlayer?: string
+}
+
+type Play = {
+  type: 'OpenOne' | 'OpenTwo' | 'Evaluate'
+  payload?: number
+}
+
+const initialGameState: GameState = {
+  players: [],
+}
+
+const getAvailableDecks = async (): Promise<Array<Deck>> => {
+  const recipes: Array<Recipe> = await fetch('/api/hello').then(res =>
+    res.ok ? res.json() : []
+  )
+  const drinks = recipes.map(recipe => recipe.name)
+  const mainSpirits = recipes.map(recipe => recipe.mainSpirit)
+  return [
+    { id: 'drinks-id', name: 'Drinks', cards: drinks },
+    { id: 'mainSpirits-id', name: 'Main Spirits', cards: mainSpirits },
+  ]
+}
+
+declare function addPlayer(name: string): Player
+
+declare function resetGame(decks: [Deck, Deck]): GameState
+
+const turn = (state = initialGameState, action?: Play): GameState => {
+  return state
+}
