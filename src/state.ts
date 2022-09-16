@@ -24,7 +24,7 @@ type Player = {
   points: number
 }
 
-type Deck = {
+export type Deck = {
   id: string
   name: string
   cards: Array<string>
@@ -44,11 +44,11 @@ type Play = {
   payload?: number
 }
 
-const initialGameState: GameState = {
+export const initialGameState: GameState = {
   players: [],
 }
 
-const getAvailableDecks = async (): Promise<Array<Deck>> => {
+export const getAvailableDecks = async (): Promise<Array<Deck>> => {
   const recipes: Array<Recipe> = await fetch('/api/hello').then(res =>
     res.ok ? res.json() : []
   )

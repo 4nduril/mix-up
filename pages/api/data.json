@@ -364,5 +364,55 @@
       "Grenadine Syrup"
     ],
     "mixing": "shake"
+  },
+  {
+    "name": "French 75",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Simple Syrup",
+      "Lemon Juice",
+      "Sparkling Wine"
+    ],
+    "addons": [
+      "Lemon twist"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Corpse Reviver Nr. 2",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Lillet Blanc",
+      "Triple Sec (Cointreau)",
+      "Lemon Juice"
+    ],
+    "addons": [
+      "Absinth wash",
+      "Cocktail-Cherry"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Momisette",
+    "mainSpirit": "Absinth",
+    "otherIngredients": [
+      "Orgeat Syrup",
+      "Lemon Juice",
+      "Soda water"
+    ],
+    "mixing": "shake"
+  },
+  {
+    "name": "Bijou",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Green Chartreuse",
+      "Sweet (red) Vermouth",
+      "Orange Bitters"
+    ],
+    "addons": [
+      "Lemon oil"
+    ],
+    "mixing": "stir"
   }
 ]
