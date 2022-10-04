@@ -170,6 +170,20 @@
     "mixing": "stir"
   },
   {
+    "name": "Sazerac",
+    "mainSpirit": "(Rye) Whiskey",
+    "otherIngredients": [
+      "Pechaud Bitters",
+      "Absinth",
+      "Simple Syrup"
+    ],
+    "addons": [
+      "Lemon oil",
+      "Lemon zest"
+    ],
+    "mixing": "stir"
+  },
+  {
     "name": "Rusty Nail",
     "mainSpirit": "Scotch",
     "otherIngredients": [
@@ -414,5 +428,19 @@
       "Lemon oil"
     ],
     "mixing": "stir"
+  },
+  {
+    "name": "20th Century",
+    "mainSpirit": "Gin",
+    "otherIngredients": [
+      "Lillet Blanc",
+      "Creme de Cacao",
+      "Lemon Juice"
+    ],
+    "addons": [
+      "Lemon zest",
+      "Dark Creme de Cacao"
+    ],
+    "mixing": "shake"
   }
 ]
